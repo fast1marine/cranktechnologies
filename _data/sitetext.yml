@@ -18,17 +18,17 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "We offer a wide range of IT solutions for your home or small business"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Computer Repair"
+        desc: "Having trouble with your computer? We can diagnose your issues and get you back to normal."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Networking"
+        desc: "Having trouble with your wifi or need help setting up a new network.  We have you covered."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Data Destruction and Recycling"
+        desc: "Need sensitive data erased or old electronics recycled?  We also have you covered here."
         icon: fab fa-markdown
 
   portfolio:
