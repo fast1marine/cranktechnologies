@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to Crank Technologies!
+    text: Home and Small Business IT Solutions
     button: Tell Me More
     buttonlink: "#services"
 
