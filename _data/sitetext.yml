@@ -45,13 +45,13 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "2018-2024"
+        desc: "We started just as making the business to account for little random side jobs"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Going Full Time"
+        year: "2024"
+        desc: "With my daughter being born I wanted more flexibility so I went full in!"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Jekyll Theme is created"
@@ -79,10 +79,10 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
+      - title: "Uptown VFW"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
+      - title: "El Jefe Cocina"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/designmodo.jpg
       - title: "themeforest"
@@ -98,8 +98,8 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Eric Swenson"
+        role: "Founder and Owner"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -108,7 +108,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
+      - name: "Serge Jacinto"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
         social:
