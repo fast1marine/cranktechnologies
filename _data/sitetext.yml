@@ -60,8 +60,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "Our Story"
+    body: "I have been working in or doing some sort of IT since 1999.  Also breaking and building computers and electronics since the 80s.  This isn't just my work this is my passion I even pursue outside of work."
     section: about
 
   clients:
