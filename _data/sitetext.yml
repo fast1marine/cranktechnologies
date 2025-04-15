@@ -70,7 +70,7 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Uptown VFW"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://uptownvfw.org
         logo: assets/img/clients/Uptown-VFW.jpg
       - title: "El Jefe Cocina"
         url: https://github.com/raviriley/agency-jekyll-theme
