@@ -71,7 +71,7 @@ en: &DEFAULT_EN
     list:
       - title: "Uptown VFW"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
+        logo: assets/img/clients/Uptown-VFW.jpg
       - title: "El Jefe Cocina"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/designmodo.jpg
