@@ -28,15 +28,7 @@ author     : Eric Swenson
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-F8KQQMN90B"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-F8KQQMN90B');
-</script>
+  google: G-F8KQQMN90B
 
 collections:
   portfolio:
