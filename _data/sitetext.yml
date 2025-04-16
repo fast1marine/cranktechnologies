@@ -84,8 +84,8 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Right now it's just a team of one.  We may grow in the future but will focus on providing great service to our customers"
+    subtext: Below are some of the clients that we have served.
     section: team
     people:
       - name: "Eric Swenson"
